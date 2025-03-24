@@ -28,18 +28,6 @@ MobileEye/
 ├── README.md                 # Project overview and instructions
 ```
 
----
-
-## 🚀 Features
-
-- 📷 Gaze estimation using front camera only
-- 🧠 Supports CNN, CNN+GRU, and CNN+LSTM architectures
-- 📊 Evaluation on multiple edge devices: Jetson, RPi, Intel NUC, Odroid
-- 🔎 Sensitivity analysis: age, gender, lighting, device type, etc.
-- 📈 Benchmark metrics: RMSE, R², inference time, energy, CPU usage
-
----
-
 ## 📦 Installation
 
 ```bash
