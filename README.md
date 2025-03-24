@@ -5,7 +5,7 @@
 > Gunawardena, N., Ginige, J. A., Javadi, B., & Lui, G. (2024).  
 > **Deep learning based eye tracking on smartphones for dynamic visual stimuli**.  
 > *Procedia Computer Science*, 246, 3733–3742. Elsevier.  
-> [https://doi.org/10.1016/j.procs.2024.03.370](https://doi.org/10.1016/j.procs.2024.03.370)
+> [https://doi.org/10.1016/j.procs.2024.09.183](https://doi.org/10.1016/j.procs.2024.09.183)
 
 ---
 
